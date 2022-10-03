@@ -3,6 +3,7 @@ A Python Script to Download all MidJourney renders from any user, writtin in pyt
 
 - Easy to identify english named files
 - Downloads all files on all pages for any midjourny user.
+- keeps json metadata and command used to render in a seperate .json file
 
 This will download all of the midjourny renders.  All you need to do is provide a user id and your session id from your browser.
 
